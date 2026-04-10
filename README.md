@@ -122,3 +122,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,50:8b5cf6,100:ff66c4&height=80&section=header&text=Let’s%20build%20the%20future%20with%20AI&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
 
 </div>
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sreoshi170/Sreoshi170/output/github-contribution-grid-snake.svg" />
+
+</div>
