@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BCA-Student-ff66c4?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Data Science-Student-ff66c4?style=for-the-badge&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20%7C%20ML-Enthusiast-22c55e?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Open%20to-Internships-00cfff?style=for-the-badge&logo=handshake&logoColor=white" />
 
