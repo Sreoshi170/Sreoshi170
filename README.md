@@ -28,6 +28,7 @@
 
 ## ⚡ About Me
 
+- 🎓 Data Science student with a strong foundation in AI & Machine Learning, passionate about developing real-world intelligent solutions  
 - 🎓 BCA Student  
 - 💻 Student Developer | AI/ML Enthusiast  
 - 🧠 Focused on Machine Learning, Data Science & AI  
@@ -74,6 +75,22 @@
 - Personal portfolio showcasing projects  
 - **Tech:** HTML, CSS, JavaScript  
 - 🔗 https://sreoshi-bhowmik.netlify.app/
+
+---
+
+## 🌱 Currently Learning
+
+- Deep Learning & Neural Networks  
+- Natural Language Processing (NLP)  
+- Real-world AI Applications  
+
+---
+
+## 🎯 Goals
+
+- 🚀 Become a Machine Learning Engineer  
+- 🧠 Build impactful AI products  
+- 🌍 Contribute to open-source projects  
 
 ---
 
