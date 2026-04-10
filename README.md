@@ -28,8 +28,7 @@
 
 ## ⚡ About Me
 
-- 🎓 Data Science student with a strong foundation in AI & Machine Learning, passionate about developing real-world intelligent solutions  
-- 🎓 BCA Student  
+- 🎓 Data Science student with a strong foundation in AI & Machine Learning, passionate about developing real-world intelligent solutions   
 - 💻 Student Developer | AI/ML Enthusiast  
 - 🧠 Focused on Machine Learning, Data Science & AI  
 - 🚀 Exploring Deep Learning, NLP & real-world applications  
